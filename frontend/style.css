@@ -1,0 +1,43 @@
+* {
+}
+
+#header{
+    background-color: rgba(54, 54, 54, 0.253);
+    display: flex;
+    justify-content: space-between;
+}
+
+a {
+    text-decoration:none;
+    color: black;
+}
+
+.header-left{
+    display: flex; 
+}
+
+.header-mid{
+    display: flex;
+}
+.header-right{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.main-block-left {
+    padding: 15px;
+    margin: 8px;
+    display: flex;
+}
+
+.main-block-left {
+    padding: 15px;
+    margin: 8px;
+    display: flex;
+}
+
+.image {
+    padding: 15px;
+    margin: 8px;
+    display: flex;
+}
